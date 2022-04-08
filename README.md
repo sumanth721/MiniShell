@@ -1,3 +1,3 @@
 # MiniShell
 
-Language Used: CPP
+Language Used: C
